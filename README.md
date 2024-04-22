@@ -8,6 +8,5 @@
 
 🌱 Driven by a passion for innovation, I am dedicated to leveraging data for tangible real-world impact.
 
-🔍 Currently seeking collaborations to spearhead transformative projects. Let's connect and innovate together! Feel free to reach out via [www.linkedin.com/in/
-subhrajit-pradhan
+🔍 Currently seeking collaborations to spearhead transformative projects. Let's connect and innovate together! Feel free to reach out via [www.linkedin.com/in/subhrajit-pradhan
 ].

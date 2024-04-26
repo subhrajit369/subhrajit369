@@ -28,6 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhrajit369&show_icons=true&locale=en" alt="subhrajit369" /></p>
 <img align="right" alt="Coding" width="400" src="https://github.com/subhrajit369/subhrajit369/blob/main/run.gif">
 
-<img align="right" alt="Coding" width="400" src="https://github.com/subhrajit369/subhrajit369/blob/main/sky.gif">
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhrajit369&" alt="subhrajit369" /></p>

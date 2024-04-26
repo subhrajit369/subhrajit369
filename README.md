@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/subhrajit369/subhrajit369/blob/main/banner.gif)](https://github.com/subhrajit369/subhrajit369/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Subhrajit Pradhan</h1>
 <h3 align="center">Data Analyst: Transforming Data into Insights and Strategies for Informed Decision-Making.</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/subhrajit369/subhrajit369/blob/main/Bkg.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/subhrajit369/subhrajit369/blob/main/ckg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhrajit369&label=Profile%20views&color=0e75b6&style=flat" alt="subhrajit369" /> </p>
 

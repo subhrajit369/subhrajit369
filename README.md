@@ -5,7 +5,7 @@
 <h3 align="center">Data Analyst | Transforming Data into Insights and Strategies for Informed Decision-Making</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subhrajit369&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=subhrajit369&label=Profile%20views&color=0e75b6&style=flat "width="200" alt="Profile views">
 </p>
 
 <p align="center">
